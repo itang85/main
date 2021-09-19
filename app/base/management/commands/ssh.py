@@ -12,8 +12,10 @@ class SshController:
         self.connection = {}
 
     def connect(self, name, ip, user, passwd):
-        ssh = pexpect.spawn('ssh {user}@{ip}'.format(user=user, ip=ip), logfile=sys.stdout)
+        ssh = pexpect.spawn('ssh {user}@{ip}'.format(user=user, ip=ip))
         try:
+            r = ssh.read()
+            print(r)
             i = ssh.expect(['password:', 'continue connecting(yes/no)?'], timeout=5)
             if i == 0:
                 ssh.sendline(passwd)
@@ -21,8 +23,8 @@ class SshController:
                 ssh.sendline('yes\n')
                 ssh.expect('password:')
                 ssh.sendline(passwd)
-            r = ssh.read()
             ssh.sendline('ls /')
+            r = ssh.read()
             print(r)
         except pexpect.EOF:
             print("EOF")
