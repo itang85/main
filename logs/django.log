@@ -1,5 +1,91 @@
-INFO 2021-09-19 22:27:39,629 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
-INFO 2021-09-19 22:28:08,553 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
-INFO 2021-09-19 22:28:45,904 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
-INFO 2021-09-19 22:53:59,316 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
-INFO 2021-09-19 22:54:12,059 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 22:09:56,814 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 22:10:54,261 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/main/settings.py changed, reloading.
+INFO 2021-09-25 22:10:54,475 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 22:11:07,645 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/apps.py changed, reloading.
+INFO 2021-09-25 22:11:07,857 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 22:11:33,611 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 22:11:50,209 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /admin HTTP/1.1" 301 0
+INFO 2021-09-25 22:11:50,226 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-09-25 22:11:50,245 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4097
+INFO 2021-09-25 22:11:50,301 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 200 232478
+INFO 2021-09-25 22:11:50,306 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/fontawesome-free-5.8.1-web/css/all.min.css HTTP/1.1" 200 55111
+INFO 2021-09-25 22:11:50,307 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2021-09-25 22:11:50,312 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/js/vue.min.js?_=2021.8.17 HTTP/1.1" 200 93675
+INFO 2021-09-25 22:11:50,324 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/elementui/index.js?_=2021.8.17 HTTP/1.1" 200 567853
+INFO 2021-09-25 22:11:50,329 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2021-09-25 22:11:50,334 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 200 115997
+INFO 2021-09-25 22:11:50,335 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2021-09-25 22:11:50,335 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2021-09-25 22:11:50,379 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2021-09-25 22:11:50,549 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/fontawesome-free-5.8.1-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 74256
+WARNING 2021-09-25 22:11:50,609 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2209
+INFO 2021-09-25 22:11:52,461 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2021-09-25 22:11:53,777 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4340
+INFO 2021-09-25 22:12:00,430 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4340
+INFO 2021-09-25 22:12:05,143 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4340
+INFO 2021-09-25 22:12:10,119 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4340
+INFO 2021-09-25 23:13:32,840 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 23:36:15,549 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/urls.py changed, reloading.
+INFO 2021-09-25 23:36:15,808 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-09-25 23:36:25,113 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:36:25,194 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2209
+INFO 2021-09-25 23:36:28,256 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4097
+WARNING 2021-09-25 23:36:30,664 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:36:53,364 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+INFO 2021-09-25 23:37:02,266 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/main/urls.py changed, reloading.
+INFO 2021-09-25 23:37:02,585 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-09-25 23:37:03,424 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:05,003 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:05,546 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:05,856 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:10,372 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+INFO 2021-09-25 23:37:25,867 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/urls.py changed, reloading.
+INFO 2021-09-25 23:37:26,096 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-09-25 23:37:33,485 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:35,246 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:35,398 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:35,553 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+WARNING 2021-09-25 23:37:35,715 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+INFO 2021-09-25 23:37:42,335 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/urls.py changed, reloading.
+INFO 2021-09-25 23:37:42,573 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 23:38:00,884 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-09-25 23:38:00,896 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4097
+WARNING 2021-09-25 23:38:04,387 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2158
+INFO 2021-09-25 23:39:23,245 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/urls.py changed, reloading.
+INFO 2021-09-25 23:39:23,476 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-09-25 23:39:24,752 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:25,024 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:25,516 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:25,693 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:25,872 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:26,018 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:26,195 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:26,328 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:31,356 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:31,630 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:31,762 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+WARNING 2021-09-25 23:39:59,914 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET / HTTP/1.1" 404 2218
+INFO 2021-09-25 23:41:21,213 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/main/urls.py changed, reloading.
+INFO 2021-09-25 23:41:21,470 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 23:41:27,507 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1 HTTP/1.1" 301 0
+ERROR 2021-09-25 23:41:27,513 /home/ubuntu/project/pythonHome/main/app/common/base/handlers.py handlers 26 Traceback (most recent call last):
+  File "/home/ubuntu/project/pythonHome/main/app/common/base/handlers.py", line 17, in wrapper
+    data = func(viewInstance, requestObject, *args, **kwargs)
+TypeError: get() takes 1 positional argument but 2 were given
+
+INFO 2021-09-25 23:41:27,513 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 40
+INFO 2021-09-25 23:42:03,852 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/views.py changed, reloading.
+INFO 2021-09-25 23:42:04,075 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 23:42:05,369 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 64
+INFO 2021-09-25 23:43:17,628 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/views.py changed, reloading.
+INFO 2021-09-25 23:43:17,884 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 23:43:20,240 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 76
+INFO 2021-09-25 23:43:41,171 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 251 /home/ubuntu/project/pythonHome/main/app/common/base/errors.py changed, reloading.
+INFO 2021-09-25 23:43:41,422 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/utils/autoreload.py autoreload 637 Watching for file changes with StatReloader
+INFO 2021-09-25 23:43:44,822 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 69
+INFO 2021-09-25 23:43:51,019 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 69
+INFO 2021-09-25 23:43:51,622 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 69
+INFO 2021-09-25 23:43:52,221 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 69
+INFO 2021-09-25 23:43:52,410 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 69
+INFO 2021-09-25 23:43:52,579 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 69
+INFO 2021-09-25 23:43:52,992 /home/ubuntu/anaconda3/envs/main/lib/python3.9/site-packages/django/core/servers/basehttp.py basehttp 161 "GET /api/v1/ HTTP/1.1" 200 69

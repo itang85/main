@@ -4,7 +4,7 @@ import sys
 import pexpect
 
 from django.core.management.base import BaseCommand, CommandError
-from app.base.models import *
+from app.common.models import *
 
 
 class SshController:
